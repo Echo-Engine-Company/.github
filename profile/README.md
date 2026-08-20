@@ -1,35 +1,107 @@
-# Bem-vindo à Nossa Organização
+<div align="center">
 
-## Sobre Nós
+<!-- Imagem abaixo precisa ser trocada depois - ![Logo](images/logo.png) -->
+# ECHO
+### Software House & Consultoria
 
-Somos uma organização especializada na venda de bots do Discord para comunidades e aplicativos de terceiros como Minecraft, League of Legends e muito mais.
+**Transformamos ideias em soluções digitais.**
 
-## Nossos Produtos
+Desenvolvemos softwares sob medida, apps e automações para empresas que
+querem clareza técnica do primeiro contato à entrega — com atendimento
+100% remoto em todo o Brasil.
 
-Oferecemos uma variedade de bots do Discord que podem ser integrados a vários aplicativos de terceiros. Aqui estão alguns dos aplicativos com os quais nossos bots podem interagir:
+[![Orçamento](https://img.shields.io/badge/Solicitar-Orçamento-white?style=for-the-badge)](#-contato)
+[![Remoto](https://img.shields.io/badge/Atendimento-100%25%20Remoto-0C1E34?style=for-the-badge)](#-sobre-nós)
+[![Brasil](https://img.shields.io/badge/Base-Brasil-7EA3C4?style=for-the-badge)](#-sobre-nós)
 
-- Minecraft
-- League of Legends
-- Comunidades
-- GTA RP
-- E muitos outros...
+</div>
 
-## Como Comprar
+<br />
 
-Para comprar um de nossos bots, siga estas etapas:
+## 📖 Sumário
 
-1. Escolha o bot que você deseja na nossa lista de produtos.
-2. Entre em contato conosco através do nosso canal de atendimento ao cliente no [Discord](https://discord.gg/BwsFZWpTQX).
-3. Forneça detalhes sobre o bot que você deseja e qualquer personalização necessária.
-4. Realize sua Assinatura através dos métodos por PIX, Boletos, PayPal ou Mercado Pago.
-5. Receba seu bot e aproveite!
+- [Sobre Nós](#-sobre-nós)
+- [Serviços](#-serviços)
+- [Diferenciais](#-diferenciais)
+- [Como Funciona](#-como-funciona)
+- [FAQ](#-faq)
+- [Contato](#-contato)
 
-## Suporte
+<br />
 
-Se você tiver algum problema ou dúvida sobre nossos bots, não hesite em entrar em contato conosco. Estamos aqui para ajudar!
+## 🧭 Sobre Nós
 
-## Contribua
+A **Echo Engine Company** é uma software house e consultoria de tecnologia. Ajudamos
+empresas a transformar ideias em soluções digitais reais — do primeiro
+diagnóstico técnico até a entrega em produção.
 
-Estamos sempre procurando melhorar nossos bots e adoraríamos ouvir suas sugestões. Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Trabalhamos 100% remoto, atendendo clientes em todo o Brasil, com foco em
+clareza técnica em cada etapa do projeto: escopo bem definido, comunicação
+direta e entregas previsíveis.
 
-Obrigado por escolher a nossa organização!
+<br />
+
+## 💼 Serviços
+
+Atuamos em **6 frentes** principais:
+
+| Frente | Descrição |
+|---|---|
+| 🖥️ **Sites institucionais** | Presença digital sólida para sua empresa |
+| 🚀 **Landing pages** | Páginas de conversão focadas em resultado |
+| ⚙️ **Sistemas sob medida** | Software feito para o seu processo, não o contrário |
+| 📱 **Aplicativos** | Apps mobile para seu negócio |
+| 🤖 **Automações** | Eliminamos tarefas manuais e repetitivas |
+| 🧩 **Consultoria técnica** | Direcionamento estratégico para decisões de tecnologia |
+
+<br />
+
+## ⭐ Diferenciais
+
+- ✅ **Clareza técnica** do primeiro contato à entrega
+- ✅ **100% remoto**, atendendo todo o Brasil
+- ✅ Comunicação direta, sem intermediários
+- ✅ Escopo, prazos e referências definidos antes de começar
+
+<br />
+
+## 🔄 Como Funciona
+
+1. **Solicite um orçamento** ou agende uma conversa diretamente pelo site.
+2. **Conte sobre o projeto** — escopo, prazo e referências.
+3. **Alinhe os detalhes** numa conversa rápida, no dia e horário que
+   funcionar melhor pra você.
+4. **Receba a proposta** e, aprovado o escopo, iniciamos o desenvolvimento.
+5. **Acompanhe a entrega** com clareza técnica em cada etapa.
+
+> Preferimos entender bem o seu problema antes de propor a solução — por
+> isso o primeiro passo é sempre uma conversa, não um contrato fechado.
+
+<br />
+
+## ❓ FAQ
+
+Dúvidas frequentes sobre escopo, prazos, formas de contratação e suporte
+estão disponíveis na seção **FAQ** do nosso site.
+
+<br />
+
+## 📬 Contato
+
+<div align="center">
+
+| Canal | Link |
+|---|---|
+| 🌐 Site | `https://echoengine.company` |
+| 📅 Agendar uma conversa | `https://echoengine.company/agenda` |
+| ✉️ E-mail | `contato@echoengine.company` |
+
+</div>
+
+<br />
+
+<div align="center">
+
+**Echo Engine Company** — Software House & Consultoria · Feito 100% remoto, do Brasil para o Brasil 🇧🇷
+
+</div>
